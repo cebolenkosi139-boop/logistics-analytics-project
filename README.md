@@ -38,7 +38,7 @@ Analyse safety incidents, maintenance patterns, delivery delays, and operational
 
 ## 5. Dataset
 
-The project uses a relational logistics dataset consisting of **14 tables** covering areas such as deliveries, trips, drivers, trucks, trailers, routes, facilities, fuel, maintenance, and safety.
+This project uses a relational logistics dataset consisting of 14 interconnected tables representing different aspects of logistics operations.
 
-The tables are analysed together where appropriate to understand relationships between different areas of the logistics operation.
+The dataset is used to analyse deliveries, trips, fleet resources, drivers, costs, maintenance, safety, and other operational factors.
 
